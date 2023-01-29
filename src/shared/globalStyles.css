@@ -1,0 +1,6 @@
+.screen-container {
+  width: calc(100% - 100px);
+  height: 100%;
+  background-color: #1b0c1a;
+  border-radius: 30px;
+}

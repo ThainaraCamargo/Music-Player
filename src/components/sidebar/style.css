@@ -1,0 +1,14 @@
+.sideContainer{
+    width: 100px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5rem;
+    justify-content: space-between;
+}
+
+.profile-img {
+    width: 55px;
+    height: 55px;
+}
